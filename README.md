@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F291221%2Fscreenshots%2F2028841%2Fbriefcase_still_2x.gif%3Fcompress%3D1%26resize%3D400x300&imgrefurl=https%3A%2F%2Fdribbble.com%2Fpsstmatt%2Fcollections%2F65914-GIFs&tbnid=88m2AFGGGKYN6M&vet=12ahUKEwjXssGuprr9AhUvXaQEHayfB3AQMygIegUIARDAAQ..i&docid=9QSeFNtBOdGIgM&w=400&h=300&itg=1&q=banner%20coding%20gif%20images&hl=en-GB&ved=2ahUKEwjXssGuprr9AhUvXaQEHayfB3AQMygIegUIARDAAQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Stanley Wekesa</h1>
 <h3 align="center">A zealous full stack developer from Nairobi Kenya</h3>
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6178918-Coding-Art-of-waiting-series-03"
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6178918-Coding-Art-of-waiting-series-03">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley-wekesa&label=Profile%20views&color=0e75b6&style=flat" alt="stanley-wekesa" /> </p>
 
