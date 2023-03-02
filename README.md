@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [my_matwana_app](https://github.com/Stanley-Wekesa/My_Matwana)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning [PHP](https://www.php.net/docs.php)
 
 - 📝 I regularly write articles on [https://dev.to/stanleywekesa](https://dev.to/stanleywekesa)
 
-- 💬 Ask me about **Yii**
+- 💬 Ask me about [Yii Framework](https://www.yiiframework.com/)
 
 - 📫 How to reach me **stanleywekesa22@gmail.com**
 
-- ⚡ Fun fact **Hoe does a saxophone sound!**
+- ⚡ Fun fact [How does a saxophone sound?](https://www.instagram.com/stanley_wekesa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
